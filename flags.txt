@@ -1,0 +1,46 @@
+inctf{s4y_hell0_2_c0pp3rsm1th_&_CRT} >> baby_alice
+flag{1ae06a29a7abd6c07dba8976698f756b987f734d} >> crack_fdp
+inctfj{GCD_4nd_r00t}                                       >> Baby RSA
+inctfj{Blim3y_y0u_kn0w_RSA!!}                              >> Elemetry
+flag{5n1ff3r5_1n_7h3_h0u53!!}                              >> dh_mitm
+inctfj{WH4t_ar3_pNgCHUnkS?}
+flag{Chunks_4r3_1mpor74n7_f0r_1mage5}
+flag{7b560d81c0202015ed269630d2b8b1993d2e7788}
+inctfj{dw1ght_1s_cr4zy_bu7_awes0me}                        >> clients.zip
+inctfj{GR3aT_m155i0n_4Cc0mpL15h3D}
+inctfj{ass1stant_t0_th3_regi0nal_man4ger}                  >> clients.pdf
+inctfj{w3_4r3_pl4nt1ng_4_b0mb}                             >> blueprint
+inctfj{y0u_c4nt_s33_m3!!}
+inctfj{1ts_4ll_f1ne_tru5t_m3}                              >> security101
+inctfj{th3_fl4g_wa5_liter4lly_ins1de_4_m3me}               >> always has been
+inctfj{4m_th3_L3ASt_5iGn1f1c4nT_bUT_1_c4N_tr0uBL3_Y0u_4_l0T} >> steg.png
+inctfj{gr0ve_5treet_f0r_l1fe}                              >> GTA
+inctfj{M0RS3C0D3I5C001}                                    >> challenge.wav
+inctfj{c0uld_4pp0ll0_b3_h4ck3d?}                           >> transmit.wav
+inctfj{le4ks_4nd_0v3rfloows_4_th3_win}                     >> unwinable
+inctfj{y0u_@r3_Qu1t3_tH3_1nTruDer}                         >> exported.apk
+inctfj{w0w_th4t_w45_4_w33k_k3y!}                           >> DES
+flag{x86-64}                                               >> a.out
+flag{YElOo_Th3r3_m4T3}                                     >> only_printable
+inctfj{Ant1_d3bugg3r5_c4n_g1v3_h4rd_t1m33}                 >> tracer
+inctfj{rc3_15_4_d1rty_bu51n355}                            >> uploader
+inctfj{Y0u_f0und_M3_1nsp3ct0r!}                            >> inspector
+inctfj{1867964258,1867964301}                              >> deadbeef
+inctfj{wh3n_c0d3_f4ils_fl4g_sp3aks}                        >> stopify
+inctfj{th3_r0b0_exclusi0n_pr0t0c0l}                        >> robocorp
+flag{cr4wl3r5_4nd_cr33p3r5_d4ng3r}                         >> humanoid
+inctfj{1337R0b0_got_pwned}                                 >> robo-auth
+inctfj{fUn_l34rn1ng_h7ml_4nd_b4s1c_j4va5cr1p7}             >> keep-away
+inctfj{L0c4l_f1l3_1nclu7i0n_15_345y}                       >> local-files
+flag{D3v310p3r_w45_runn1ng_0u7_0f_71m3}                    >> envelope
+inctfj{7h4t_WIN_1s_uRs}                                    >> overandout
+inctfj{n3gat1ve_1s_n0t_actu4ally_n3gative??}               >> quick-mafs
+inctfj{f0rg0t_b0ut_n3g4t1v3?}                              >> index-me
+inctfj{00h!!gR34t_u_m4st3rd_SqLi!!??g00djOb}               >> search_engine
+inctfj{n0_l1bc_no_pr0bl3m!}                                >> obscure-rop
+flag{l1ttl3_3nd1an_ftw} >> o-var-write-me #python -c "print('a'*160+'\xbe\xba\xfe\xca')"
+flag{s1mpl3_buff3r_0v3rfl0w} >> overwrite me #python -c "print('a'*108+b'100')"
+flag{int3g3r5_ar3nt_th4t_s3cur3_n0w} >> secureglobalarray #2222222222
+inctfj{m4y_7h3_f0rc3s_b3_w1th_m3} >> check
+
+lgfga0{_00DKw_rH!ttw4S_T4$n__4o_b4D_wts1}? >> Mixup ???
